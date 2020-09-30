@@ -23,7 +23,7 @@ msgid "Ravada broker"
 msgstr "ラバダブローカー"
 
 msgid "Machine Name"
-msgstr "マシン名。"
+msgstr "マシン名"
 
 msgid "Tools"
 msgstr "ツール"
@@ -53,22 +53,22 @@ msgid "Users List"
 msgstr "ユーザーリスト"
 
 msgid "Name"
-msgstr "名"
+msgstr "名前"
 
 msgid "Log Out"
 msgstr "ログアウト"
 
 msgid "Available Machines"
-msgstr "利用可能なマシン。"
+msgstr "利用可能なマシン"
 
 msgid "Help"
-msgstr "助けて"
+msgstr "ヘルプ"
 
 msgid "Requirements"
 msgstr "要件"
 
 msgid "About"
-msgstr "約"
+msgstr "情報"
 
 msgid "Mark all as read"
 msgstr "すべてを読むようにマークしてください。"
@@ -77,13 +77,13 @@ msgid "Settings"
 msgstr "設定"
 
 msgid "New Machine"
-msgstr "新しいマシン。"
+msgstr "新しいマシン"
 
 msgid "I want to change my password"
-msgstr "パスワードを変更したい"
+msgstr "パスワードを変更する"
 
 msgid "I want to change my language"
-msgstr "私は自分の言語を変えたい。"
+msgstr "言語を変更する"
 
 msgid "Language:"
 msgstr "言語"
@@ -170,7 +170,7 @@ msgid "Process"
 msgstr "進行中です."
 
 msgid "Copy"
-msgstr "コピー "
+msgstr "コピー"
 
 msgid "Error!"
 msgstr "間違い"
@@ -197,7 +197,7 @@ msgid "No messages to show"
 msgstr "表示するメッセージはありません。"
 
 msgid "Admin"
-msgstr " 運営者 "
+msgstr "運営者 "
 
 msgid "Machines"
 msgstr "マシン"
@@ -227,10 +227,10 @@ msgid "Restore"
 msgstr "リストア"
 
 msgid "Hibernate"
-msgstr "休止状態。"
+msgstr "休止状態"
 
 msgid "Are you sure?"
-msgstr "本気ですか？"
+msgstr "本当によろしいですか？"
 
 msgid "Yes"
 msgstr "はい"
@@ -239,10 +239,10 @@ msgid "No"
 msgstr "いいえ"
 
 msgid "Make public"
-msgstr "公にする。"
+msgstr "公開する"
 
 msgid "Machine settings"
-msgstr "マシン設定。"
+msgstr "マシン設定"
 
 msgid "Cannot remove base, machine has clones"
 msgstr "ベースを取り外すことはできません。マシンにはクローンがあります。"
@@ -254,7 +254,7 @@ msgid "hide clones"
 msgstr "クローンを非表示にする。"
 
 msgid "For Spice redirection you will need to install"
-msgstr "スパイスリダイレクトの場合、インストールする必要があります"
+msgstr "スパイスリダイレクトの場合、インストールする必要があります。"
 
 msgid "in your computer."
 msgstr "あなたのコンピュータで。"
@@ -462,10 +462,10 @@ msgid "There are no machines available in this system."
 msgstr "このシステムで利用できるマシンはありません。"
 
 msgid "Create one."
-msgstr "一つ作る"
+msgstr "作成"
 
 msgid "not public"
-msgstr "公開されていない."
+msgstr "公開されていません"
 
 msgid "User Settings"
 msgstr "ユーザー設定."
@@ -568,43 +568,43 @@ msgid "to"
 msgstr "に"
 
 msgid "Changing Public State"
-msgstr "公共の状態を変える。"
+msgstr "公開の状態を変える。"
 
 msgid "Changing Base State"
 msgstr "ベースの状態を変更します。"
 
 msgid "action"
-msgstr "アクション。"
+msgstr "アクション"
 
 msgid "Grants"
 msgstr "助成金"
 
 msgid "public"
-msgstr "パブリック。"
+msgstr "パブリック"
 
 msgid "New Base"
 msgstr "新しい基地。"
 
 msgid "Version"
-msgstr "バージョン。"
+msgstr "バージョン"
 
 msgid "Authors"
-msgstr "著者。"
+msgstr "著者"
 
 msgid "Development"
-msgstr "開発。"
+msgstr "開発"
 
 msgid "Below are listed the technologies used in this project:"
 msgstr "以下は、このプロジェクトで使用されている技術のリストです。"
 
 msgid "The code is available on "
-msgstr "コードはで利用可能です。"
+msgstr "コードは利用可能です。"
 
 msgid "The code is "
 msgstr "コードはです。"
 
 msgid "License"
-msgstr "ライセンス。"
+msgstr "ライセンス"
 
 msgid "Machine locked by"
 msgstr "マシンはロックされています。"
