@@ -285,7 +285,7 @@ msgid "Login"
 msgstr "ログイン。"
 
 msgid "Welcome"
-msgstr "いらっしゃいませ。"
+msgstr "ようこそ"
 
 msgid "A viewer is required to run the virtual machines."
 msgstr "ビューアは仮想マシンを実行する必要があります。"
@@ -297,10 +297,10 @@ msgid "Virtual Machines"
 msgstr "仮想マシン"
 
 msgid "User"
-msgstr "ユーザー。"
+msgstr "ユーザー"
 
 msgid "Password"
-msgstr "パスワード。"
+msgstr "パスワード"
 
 msgid "Start session"
 msgstr "セッションを開始します。"
@@ -309,7 +309,7 @@ msgid "bits) in your computer."
 msgstr "ビット）をあなたのPCに保存します。"
 
 msgid "Permissions"
-msgstr "パーミッション。"
+msgstr "パーミッション"
 
 msgid "can change the settings of owned virtual machines."
 msgstr "あなたの所有する仮想マシンの設定を変更することができます。"
@@ -372,16 +372,16 @@ msgid "can shutdown clones from virtual machines owned by the user."
 msgstr "ユーザーが所有する仮想マシンからクローンをシャットダウンすることができます。"
 
 msgid "Submit Query"
-msgstr "クエリを送信。"
+msgstr "クエリを送信"
 
 msgid "From Template"
-msgstr "テンプレートから。"
+msgstr "テンプレートから"
 
 msgid "From Machine"
-msgstr "マシンから。"
+msgstr "マシンから"
 
 msgid "Backend"
-msgstr "バックエンド。"
+msgstr "バックエンド"
 
 msgid "Select Template"
 msgstr "テンプレートを選択します。"
@@ -392,13 +392,13 @@ msgid ""
 msgstr "このISOイメージはまだダウンロードされていません。 ファイルがインターネットから取得されるまで数分、さらには数時間かかることがあります。"
 
 msgid "Download now"
-msgstr "ダウンロード中。"
+msgstr "ダウンロード中"
 
 msgid "Select ISO"
 msgstr "ISOを選択します。"
 
 msgid "Template"
-msgstr "テンプレート。"
+msgstr "テンプレート"
 
 msgid "Disk Size: (GB)"
 msgstr "ディスクサイズ：（GB）"
@@ -433,7 +433,7 @@ msgid ""
 msgstr "マシン名は、アルファベット文字、数字、ダッシュおよびポイントのみで構成することができます。"
 
 msgid "Create"
-msgstr "作成する."
+msgstr "作成"
 
 msgid ""
 "can change the settings of all virtual machines cloned from one base owned "
@@ -453,7 +453,7 @@ msgid "Are you sure you want to change the Public state of"
 msgstr "公開状態を変更してもよろしいですか？"
 
 msgid "Search"
-msgstr "サーチ"
+msgstr "検索"
 
 msgid "There are no public bases available in this system."
 msgstr "このシステムには公的拠点はありません。"
@@ -462,13 +462,13 @@ msgid "There are no machines available in this system."
 msgstr "このシステムで利用できるマシンはありません。"
 
 msgid "Create one."
-msgstr "作成"
+msgstr "1つ作成"
 
 msgid "not public"
 msgstr "公開されていません"
 
 msgid "User Settings"
-msgstr "ユーザー設定."
+msgstr "ユーザー設定"
 
 msgid "Create a new account"
 msgstr "新しいアカウントを作成します。"
@@ -492,7 +492,7 @@ msgid "Hybernating ..."
 msgstr "冬眠中の.."
 
 msgid "Description"
-msgstr "説明。"
+msgstr "説明"
 
 msgid "Rename"
 msgstr "名前を変更します。"
@@ -504,16 +504,16 @@ msgid "Drivers"
 msgstr "コントローラー"
 
 msgid "Graphics"
-msgstr "グラフィックス。"
+msgstr "グラフィックス"
 
 msgid "Remove Machine"
 msgstr "マシンを消去します。"
 
 msgid "System overview"
-msgstr "システム概要。"
+msgstr "システム概要"
 
 msgid "Danger Zone"
-msgstr "危険区域。"
+msgstr "危険区域"
 
 msgid ""
 "Once you delete the machine, there is no going back. Please be certain."
@@ -529,7 +529,7 @@ msgid "This action can't be undone"
 msgstr "この操作は元に戻すことはできません。"
 
 msgid "Are you sure ?"
-msgstr "本気ですか ？"
+msgstr "本当によろしいですか？"
 
 msgid "Yes, remove"
 msgstr "はい、削除してください。"
@@ -613,7 +613,7 @@ msgid "This Machine is a base"
 msgstr "このマシンはベースです。"
 
 msgid "Cloned"
-msgstr "クローン化。"
+msgstr "クローン化"
 
 msgid "is admin"
 msgstr "ユーザーは管理者になります。"
@@ -622,7 +622,7 @@ msgid "Add new user"
 msgstr "新しいユーザーを追加します。"
 
 msgid "Register"
-msgstr "登録。"
+msgstr "登録"
 
 msgid "Current Password:"
 msgstr "現在のパスワード："
